@@ -13,4 +13,21 @@ a {
 
 body {
     font-family: 'Roboto Mono', monospace;
+    font-size: 18px;
+    color: #222222;
+}
+header {
+    padding: 0 20px;
+}
+
+.logo {
+    padding: 20px 0;
+}
+
+main {
+    padding: 0 20px;
+}
+
+.text {
+    padding: 10px 0;
 }
